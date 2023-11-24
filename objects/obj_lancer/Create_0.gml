@@ -1,0 +1,14 @@
+event_inherited();
+width = 6;
+maxhp = 40;
+hp = maxhp;
+att = 10;
+spd = 0.28;
+range = 15;
+diesprite = Spr_lancer_die;
+idlesprite = Spr_lancer_idle;
+attsprite = Spr_lancer_stab;
+walksprite = Spr_lancer_walk;
+knocksprite = Spr_lancer_knockback;
+knockable = true;
+atindex = 3;

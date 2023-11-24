@@ -1,0 +1,14 @@
+event_inherited();
+width = 6;
+maxhp = 100;
+hp = maxhp;
+att = 20;
+spd = 0.2;
+range = 6;
+diesprite = Spr_swordsman_die;
+idlesprite = Spr_swordsman_idle;
+attsprite = Spr_swordsman_swing;
+walksprite = Spr_swordsman_walk;
+knocksprite = Spr_swordsman_knockback;
+knockable = true;
+atindex = 7;

@@ -1,0 +1,15 @@
+event_inherited();
+width = 12;
+maxhp = 300;
+hp = maxhp;
+att = 30;
+spd = 0.06;
+range = 10;
+diesprite = Spr_giant_die;
+idlesprite = Spr_giant_idle;
+attsprite = Spr_giant_stomp;
+walksprite = Spr_giant_walk;
+knocksprite = -4;
+knockable = false;
+atindex = 7;
+dieindex = 6;
